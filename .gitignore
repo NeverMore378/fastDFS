@@ -1,4 +1,5 @@
-/.idea/
-/logs/
-/fastdfs/target/
+/.idea/*
+/logs/*
+/fastdfs/target/*
 
+/fastdfs-ui/.idea/
