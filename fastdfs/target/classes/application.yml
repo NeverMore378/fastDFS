@@ -1,0 +1,10 @@
+server:
+  port: 22100
+
+fastdfs:
+  #文件上传临时目录
+  upload_location: E:\\upload\\
+
+logging:
+  file:
+    name: logs/log
